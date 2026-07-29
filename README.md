@@ -7,7 +7,7 @@
 <h3 align="center">Tecnologias Utilizadas:</h3>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="html-logo" width=120px />
-<img src="https://blog.leonhassan.co.uk/content/images/2019/09/css3.svg" alt="css-logo" width=135px />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/500px-CSS3_logo_and_wordmark.svg.png" alt="css-logo" width=85px />
 <br>
 
 <a href="https://jonataswebj-lab.github.io/WRE-Designer-/">Site WRE Designer®</a>
